@@ -195,3 +195,4 @@ module SonicPi
 
   end
 end
+"-H", "ASIO4ALL",
